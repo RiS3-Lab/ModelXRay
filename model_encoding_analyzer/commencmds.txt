@@ -1,0 +1,2 @@
+dd if=1708654592_dump.data.truncated of=1708654592_dump.data.truncated.dd bs=1 skip=44217 count=15576
+hexdump -v -e '8/1 %02X t ' -e '8/1 %cn'  -n 660 

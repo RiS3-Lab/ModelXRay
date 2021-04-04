@@ -1,0 +1,23 @@
+360.entropy_report.filtered:1458:6.119854 b41c3b46 96K com.google.android.apps.translate_62000762 photo-ocr/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite tensorflow:libtranslate.so ncnn:libtranslate.so other:libtranslate.so
+360.entropy_report.filtered:3833:6.965988 97f964d7 32K com.shensz.teacher_10000035 blur.quantized.pb tensorflow:libtensorflow_demo.so,libmyjni.so
+360.entropy_report.filtered:3834:6.875088 1607cc71 40K com.shensz.teacher_10000035 tick_little.quantized.pb tensorflow:libtensorflow_demo.so,libmyjni.so
+360.entropy_report.filtered:3837:6.931100 b2682505 32K com.shensz.teacher_10000035 choice.quantized.pb tensorflow:libtensorflow_demo.so,libmyjni.so
+360.entropy_report.filtered:3838:6.721302 c3a3b97d 64K com.shensz.teacher_10000035 tick.quantized.pb tensorflow:libtensorflow_demo.so,libmyjni.so
+360.entropy_report.filtered:3841:6.799864 248dabda 72K com.shensz.teacher_10000035 phone.quantized.pb tensorflow:libtensorflow_demo.so,libmyjni.so
+360.entropy_report.filtered:3844:6.587299 f33595c4 148K com.shensz.teacher_10000035 version.quantized.pb tensorflow:libtensorflow_demo.so,libmyjni.so
+360.entropy_report.filtered:3873:6.965988 97f964d7 32K com.shensz.student_10004452 blur.quantized.pb tensorflow:libjnilib.so other:libjpgd.so
+360.entropy_report.filtered:3874:6.875088 1607cc71 40K com.shensz.student_10004452 tick_little.quantized.pb tensorflow:libjnilib.so other:libjpgd.so
+360.entropy_report.filtered:3875:6.931100 b2682505 32K com.shensz.student_10004452 choice.quantized.pb tensorflow:libjnilib.so other:libjpgd.so
+360.entropy_report.filtered:3876:6.721302 c3a3b97d 64K com.shensz.student_10004452 tick.quantized.pb tensorflow:libjnilib.so other:libjpgd.so
+360.entropy_report.filtered:3877:6.799864 248dabda 72K com.shensz.student_10004452 phone.quantized.pb tensorflow:libjnilib.so other:libjpgd.so
+360.entropy_report.filtered:3878:6.587299 f33595c4 148K com.shensz.student_10004452 version.quantized.pb tensorflow:libjnilib.so other:libjpgd.so
+360.entropy_report.filtered:4456:0.253606 f9434d33 60K com.vsco.cam_30002934 vsco_category_quantized_20181130_tf1-12.tflite tensorflow:libtensorflowlite_jni.so,libclassifier_jni.so ncnn:libclassifier_jni.so other:libtensorflowlite_jni.so,libclassifier_jni.so
+gplay.entropy_report.filtered:42:7.435154 8ac61b55 2.3M com.familyfit.google.baduanjin quantized_model_337.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+gplay.entropy_report.filtered:77:6.719830 64c8bc96 552K com.cut.cutout.photo.background.editor stylize_quantized.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+gplay.entropy_report.filtered:184:6.719830 64c8bc96 552K com.thmobile.sketchphotomaker stylize_quantized.pb tensorflow:libtensorflow_inference.so
+mengweidl.entropy_report.filtered:38:6.719830 64c8bc96 552K pip.face.selfie.beauty.camera.photo.editor stylize_quantized.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+tencent.entropy_report.filtered:259:0.253606 f9434d33 60K com.vsco.cam vsco_category_quantized_20181130_tf1-12.tflite tensorflow:libtensorflowlite_jni.so,libclassifier_jni.so ncnn:libclassifier_jni.so other:libclassifier_jni.so,libtensorflowlite_jni.so
+us.entropy_report.filtered:230:6.719830 64c8bc96 552K com.cut.cutout.photo.background.editor stylize_quantized.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+us.entropy_report.filtered:231:6.719830 64c8bc96 552K com.thmobile.sketchphotomaker stylize_quantized.pb tensorflow:libtensorflow_inference.so
+us.entropy_report.filtered:232:6.719830 64c8bc96 552K pip.face.selfie.beauty.camera.photo.editor stylize_quantized.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+us.entropy_report.filtered:517:7.435154 8ac61b55 2.3M com.familyfit.google.baduanjin quantized_model_337.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so

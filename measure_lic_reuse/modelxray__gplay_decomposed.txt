@@ -1,0 +1,42 @@
+Analyzing /home/ruimin/nfs/modelxray/gplay_decomposed
+2020-07-30-03-48-06
+
+MD5		License Path and Name
+ae00a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.narvii.amino.master/assets/E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+2ff90233 /home/ruimin/nfs/modelxray/gplay_decomposed/com.narvii.amino.master/assets/license/3366-136-f45e980df7b7d83243dbb384c82a97a6.lic
+d6e73660 /home/ruimin/nfs/modelxray/gplay_decomposed/com.badoo.mobile/assets/AgLenses.lic
+86d64cb6 /home/ruimin/nfs/modelxray/gplay_decomposed/com.naver.vapp/assets/SenseME.lic
+ae00a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.techxstar.guessthemarvelcharacter/assets/E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+2ff90233 /home/ruimin/nfs/modelxray/gplay_decomposed/com.techxstar.guessthemarvelcharacter/assets/license/3366-136-f45e980df7b7d83243dbb384c82a97a6.lic
+291affe8 /home/ruimin/nfs/modelxray/gplay_decomposed/com.usatoday.android.news/assets/littlstar_android_vrstories.lic
+514a28b1 /home/ruimin/nfs/modelxray/gplay_decomposed/com.usatoday.android.news/assets/littlstar_android_usatoday.key.lic
+0892553e /home/ruimin/nfs/modelxray/gplay_decomposed/com.huya.nimo/assets/br_SenseME_Test.lic
+8992bdff /home/ruimin/nfs/modelxray/gplay_decomposed/com.huya.nimo/assets/br_SenseME.lic
+ae00a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.tpsdev.ladybug.noir.wallpaper/assets/E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+2ff90233 /home/ruimin/nfs/modelxray/gplay_decomposed/com.tpsdev.ladybug.noir.wallpaper/assets/license/3366-136-f45e980df7b7d83243dbb384c82a97a6.lic
+72b8f85d /home/ruimin/nfs/modelxray/gplay_decomposed/com.asiainno.uplive.aiglamour/assets/SenseME.lic
+ae00a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.theendlesshills.message_of_stars/assets/E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+2ff90233 /home/ruimin/nfs/modelxray/gplay_decomposed/com.theendlesshills.message_of_stars/assets/license/3366-136-f45e980df7b7d83243dbb384c82a97a6.lic
+436b7aa5 /home/ruimin/nfs/modelxray/gplay_decomposed/com.dailyselfie.newlook.studio/assets/SenseME.lic
+30bc06f3 /home/ruimin/nfs/modelxray/gplay_decomposed/ctrip.android.view/assets/SenseME.lic
+bc7e9276 /home/ruimin/nfs/modelxray/gplay_decomposed/com.dongby.android.mmshow.inter/assets/SenseME.lic
+e4bdb259 /home/ruimin/nfs/modelxray/gplay_decomposed/com.cmcm.live/assets/SenseME.lic
+ae00a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.narvii.amino.x43169197/assets/E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+2ff90233 /home/ruimin/nfs/modelxray/gplay_decomposed/com.narvii.amino.x43169197/assets/license/3366-136-f45e980df7b7d83243dbb384c82a97a6.lic
+bc7e9276 /home/ruimin/nfs/modelxray/gplay_decomposed/com.unico.live/assets/SenseME.lic
+b007a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/video.like/assets/SenseME.lic
+fc115dfb /home/ruimin/nfs/modelxray/gplay_decomposed/sg.bigo.live/assets/senseAr/SenseME.lic
+fc535def /home/ruimin/nfs/modelxray/gplay_decomposed/com.gokoo.hamo/assets/SenseME.lic
+e50f4018 /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/0785C0D9-12E7-4A3D-9496-6199F9FDDD2C.lic
+45224209 /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/C6273A8F-C899-4765-8BFC-E683EE37AA84.lic
+0f8944b4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/1698-95-390731dd5604e2d252ff18173dbc8c30.lic
+a21d1186 /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/1CEE3777-A813-4378-AD52-7B264BD0CC4D.lic
+8b9c5d53 /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/A8A4344D-45DA-460F-A18F-C0E2355FE864.lic
+01e860fd /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/FCB9BB97-CEA2-4588-8997-C52BE2358D5E.lic
+1b42900e /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/C02204D0-F3C3-495E-B65C-9F2C79E68573.lic
+20fd5530 /home/ruimin/nfs/modelxray/gplay_decomposed/com.duks.amazer/assets/39DA0799-01A5-44F6-958E-6C840715331E.lic
+c6f6520d /home/ruimin/nfs/modelxray/gplay_decomposed/com.sharpened.androidfileviewer/assets/Aspose.Email.lic
+ae00a8c4 /home/ruimin/nfs/modelxray/gplay_decomposed/com.narvii.amino.x172976915/assets/E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+2ff90233 /home/ruimin/nfs/modelxray/gplay_decomposed/com.narvii.amino.x172976915/assets/license/3366-136-f45e980df7b7d83243dbb384c82a97a6.lic
+16071d42 /home/ruimin/nfs/modelxray/gplay_decomposed/org.dayup.stocks/assets/SenseID_Liveness_Interactive.lic
+fc115dfb /home/ruimin/nfs/modelxray/gplay_decomposed/com.huya.niko/assets/senseAr/SenseME.lic

@@ -1,0 +1,287 @@
+entropy	md5	size	pkgname	filename	ml_framework:library	(entropy range(0,8), [>7.5] means random):
+2.764062 c6faad31 64K com.mastercraft.game.explorationn images/font/glyph_sizes.bin ncnn:libgame.so other:libgame.so
+7.432087 90b331a9 392K com.nick.android.nickjr ULSFaceTrackerAssets/det2.bin uls:libulsCppTracker_native_lite.so other:libulsCppTracker_native_lite.so
+7.415996 288759e6 28K com.nick.android.nickjr ULSFaceTrackerAssets/det1.bin uls:libulsCppTracker_native_lite.so other:libulsCppTracker_native_lite.so
+7.419491 e12e387a 7.7M com.nick.android.nickjr ULSFaceTrackerAssets/ulsTracker.model uls:libulsCppTracker_native_lite.so other:libulsCppTracker_native_lite.so
+7.435917 86d65f6a 1.5M com.nick.android.nickjr ULSFaceTrackerAssets/det3.bin uls:libulsCppTracker_native_lite.so other:libulsCppTracker_native_lite.so
+7.999883 f829adc2 1.5M com.naver.vapp M_SenseME_Face_Video_5.3.3.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libstellite_http_client.so
+6.845405 96ebf11e 3.2M com.androidworks.videocalling models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.androidworks.videocalling models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.androidworks.videocalling models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.androidworks.videocalling models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.androidworks.videocalling models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.androidworks.videocalling models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.434689 fb30864b 5.2M app.vivoo.io graph.lite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+7.992012 4738d6fc 24K com.asiainno.uplive.aiglamour filter_style_babypink_5.8.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libsmsdk.so,libzegoliveroom.so
+7.999856 0f261bdd 1.5M com.asiainno.uplive.aiglamour action_5.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libsmsdk.so,libzegoliveroom.so
+7.999923 8fef4e77 2.3M com.camera.galaxyx track_face_action1.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so,libavformat-57.so
+7.999923 8fef4e77 2.3M com.camera.one.s10.camera track_face_action1.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so,libavformat-57.so
+7.436526 31395efa 1.6M com.beauty.photoedit.camera.makeup 3_class_model caffe:libFaceSDK.so
+6.756698 5335896f 148K com.beauty.photoedit.camera.makeup facialLandmarksModel.mean caffe:libFaceSDK.so
+7.446136 f22933c3 836K com.beauty.photoedit.camera.makeup facialLandmarksModel.cdnn caffe:libFaceSDK.so
+7.571977 e9b90e8f 276K com.beauty.photoedit.camera.makeup 7_class_model caffe:libFaceSDK.so
+7.447013 4cc8ab09 2.7M com.beauty.photoedit.camera.makeup align_model.binary caffe:libFaceSDK.so
+4.512642 59a99c82 21M com.camscanner.documentscanner.pdfreader trainneddata/eng.traineddata tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libtess.so,libopencv_java3.so
+7.999962 cc9e0405 4.5M com.bitstrips.imoji mirror/mirror_encrypted.pb tensorflow:libtensorflow_inference.so
+7.448483 7cbe13a6 15M com.badoo.mobile models/KW_Track.bin tensorflow:libnama.so caffe:libnama.so other:libnama.so,libagora-rtc-sdk-jni.so
+7.353802 35a7ed0c 72K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m1.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+4.775969 48136fb0 1.1M com.familyfit.google.baduanjin pn_all_movement_keras.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.267351 43f0a218 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m6_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.378589 ff9298bb 84K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m3.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.259828 ec080689 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m0_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.281369 0f0784d2 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m5_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.265454 b01d1ee9 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m2_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.311498 dbd3342e 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_all_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.485221 97a025ca 112K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_all.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.257417 92c1fc1b 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m1_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.373406 f0acb08a 88K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m4.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.364101 cacd06af 64K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m8.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.259774 c3f8f345 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m4_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.374325 e3c82bd3 80K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m2.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.257051 897d6980 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m7_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.435154 8ac61b55 2.3M com.familyfit.google.baduanjin quantized_model_337.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.259828 ec080689 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m8_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.382520 47be13bf 112K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m7.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.364101 cacd06af 64K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m0.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.384806 ee154c60 104K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m6.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.390350 2e571559 100K com.familyfit.google.baduanjin bdj_minmaxscaler1_pn_m5.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.265664 59b45a97 148K com.familyfit.google.baduanjin ae_model_minmaxscaler1_m3_pn.tflite tensorflow:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so other:libtensorflowlite_jni.so,libtensorflowlite_gpu_jni.so
+7.435447 6f5be41a 23M com.draw.now.drawit happy.tflite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+0.955920 fccbd8da 8.0K com.eraserphoto.cutout.backgroundeditor modle/ncnn1.proto ncnn:libnativeai.so other:libnativeai.so
+0.976057 6d122df8 180K com.eraserphoto.cutout.backgroundeditor modle/person.proto ncnn:libnativeai.so other:libnativeai.so
+1.383670 a75356b5 36K com.eraserphoto.cutout.backgroundeditor modle/style.proto ncnn:libnativeai.so other:libnativeai.so
+0.898837 7f5cbbab 12K com.eraserphoto.cutout.backgroundeditor modle/ncnn3.proto ncnn:libnativeai.so other:libnativeai.so
+7.346702 ddae6c12 1.5M com.eraserphoto.cutout.backgroundeditor modle/person.bin ncnn:libnativeai.so other:libnativeai.so
+7.059402 da6271f5 920K com.eraserphoto.cutout.backgroundeditor modle/style.bin ncnn:libnativeai.so other:libnativeai.so
+0.898599 4fde252c 8.0K com.eraserphoto.cutout.backgroundeditor modle/ncnn2.proto ncnn:libnativeai.so other:libnativeai.so
+7.435917 74ad6e3d 1.5M com.eraserphoto.cutout.backgroundeditor modle/ncnn3.bin ncnn:libnativeai.so other:libnativeai.so
+7.432087 21683c48 392K com.eraserphoto.cutout.backgroundeditor modle/ncnn2.bin ncnn:libnativeai.so other:libnativeai.so
+7.415996 631088fe 28K com.eraserphoto.cutout.backgroundeditor modle/ncnn1.bin ncnn:libnativeai.so other:libnativeai.so
+7.453142 f7a97c40 13M com.fishbrain.app tensorflow/fish-no-fish.tflite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+6.821175 4962b5eb 2.3M com.fishbrain.app tensorflow/species_recognition.tflite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+6.845405 96ebf11e 3.2M com.face.predictor.fantastic.face.secret models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.face.predictor.fantastic.face.secret models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.face.predictor.fantastic.face.secret models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.face.predictor.fantastic.face.secret models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.face.predictor.fantastic.face.secret models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.face.predictor.fantastic.face.secret models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.989970 f92813de 24K com.dongby.android.mmshow.inter filter_style_babypink_5.8.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libsmsdk.so,libzegoliveroom.so
+7.999856 0f261bdd 1.5M com.dongby.android.mmshow.inter action_5.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libsmsdk.so,libzegoliveroom.so
+7.438463 57ca14c1 17M com.dazz.hoop optimized_nudity_graph.tflite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+6.845405 96ebf11e 3.2M com.framy.placey models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.framy.placey models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.framy.placey models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.framy.placey models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.framy.placey models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.framy.placey models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.719830 64c8bc96 552K com.cut.cutout.photo.background.editor stylize_quantized.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+7.428750 b9eb6d37 8.4M com.cut.cutout.photo.background.editor a.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+7.435447 6f5be41a 23M com.draw.clash.drawit happy.tflite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+7.999952 f9b9fc09 3.6M com.dailyselfie.newlook.studio M_SenseME_Action_5.5.1.model caffe:libst_mobile.so,libcaffe_jni.so,libcaffe.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libcaffe.so
+7.999733 ac6605e5 804K com.dailyselfie.newlook.studio M_SenseME_Iris_1.11.1.model caffe:libst_mobile.so,libcaffe_jni.so,libcaffe.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libcaffe.so
+7.999888 f472abcd 1.8M com.dailyselfie.newlook.studio M_SenseME_Face_Extra_5.6.0.model caffe:libst_mobile.so,libcaffe_jni.so,libcaffe.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libcaffe.so
+5.427478 acbd1019 16K com.gokoo.hamo runtime_shared/v8snapshot/natives_blob.bin caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libyylivesdk4cloud.so,liborangefilterjni.so
+7.999893 c974d37b 1.5M com.gokoo.hamo M_SenseME_Face_Video_5.3.0_v1.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libyylivesdk4cloud.so,liborangefilterjni.so
+4.722472 1c63875e 272K com.gokoo.hamo runtime_shared/v8snapshot/snapshot_blob.bin caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libyylivesdk4cloud.so,liborangefilterjni.so
+7.999883 f829adc2 1.5M com.gokoo.hamo M_SenseME_Face_Video_5.3.3.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libyylivesdk4cloud.so,liborangefilterjni.so
+7.999972 72c85c79 5.2M com.gokoo.hamo M_SenseME_Body_Fourteen_1.3.1.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libyylivesdk4cloud.so,liborangefilterjni.so
+7.319368 f1645ff8 3.5M com.google.audio.hearing.visualization.accessibility.scribe audio_set_320ms.tflite tensorflow:libtensorflowlite_jni.so,libgoogle_recognizer_with_speakerid_jni.so other:libtensorflowlite_jni.so,libgoogle_recognizer_with_speakerid_jni.so
+4.328086 4e35df74 4.8M com.grammarly.android.keyboard models/resource22.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.986668 8d7cdfca 12K com.grammarly.android.keyboard models/resource15.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.999769 8e4134c4 1.1M com.grammarly.android.keyboard models/resource08.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.993423 b88c8440 24K com.grammarly.android.keyboard models/resource13.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+0.000000 d41d8cd9 0 com.grammarly.android.keyboard models/resource16.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.402792 cb25f9e4 44K com.grammarly.android.keyboard models/resource11.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.286276 f9a3f29a 15M com.grammarly.android.keyboard models/resource21.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.454218 3df347f9 16K com.grammarly.android.keyboard models/resource10.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.997386 1e768796 88K com.grammarly.android.keyboard models/resource06.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.818072 4d109dc5 4.2M com.grammarly.android.keyboard models/resource31.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.997157 412de270 64K com.grammarly.android.keyboard models/resource12.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+4.524491 3a0afec0 624K com.grammarly.android.keyboard models/resource20.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.981373 447454c9 3.8M com.grammarly.android.keyboard models/resource18.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.673649 c3e1a76b 964K com.grammarly.android.keyboard models/resource26.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.725135 eab30d1b 4.0M com.grammarly.android.keyboard models/resource28.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+5.369802 6e6a216d 3.1M com.grammarly.android.keyboard models/resource23.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+0.001962 6c2b61ba 784K com.grammarly.android.keyboard models/resource24.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.996730 d4ce0bf8 56K com.grammarly.android.keyboard models/resource14.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.976256 c1995b7b 8.0K com.grammarly.android.keyboard models/resource07.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+4.807823 6e72def8 32K com.grammarly.android.keyboard models/resource29.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+4.749832 29fe81bf 1.4M com.grammarly.android.keyboard models/resource02.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.997998 e6365f36 104K com.grammarly.android.keyboard models/resource25.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.867609 bcbd3e43 35M com.grammarly.android.keyboard models/resource04.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+5.002263 573b3729 22M com.grammarly.android.keyboard models/resource01.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.998839 c3af978a 184K com.grammarly.android.keyboard models/resource03.bin tensorflow:libmspell-jni.so other:libmspell-jni.so
+7.414294 38fd5b86 848K com.google.android.apps.photos coarse_classifier/suggested_actions_classifier_v7.tflite tensorflow:libnative.so other:libnative.so
+7.533049 1a9524b2 36K com.google.android.apps.photos awb_table_kernels_dft_base_photos_srgb.bin tensorflow:libnative.so other:libnative.so
+6.845405 96ebf11e 3.2M com.geico.mobile models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libjsc.so,libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.geico.mobile models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libjsc.so,libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.geico.mobile models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libjsc.so,libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.geico.mobile models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libjsc.so,libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.geico.mobile models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libjsc.so,libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.geico.mobile models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libjsc.so,libface_detector_v2_jni.so
+7.393632 4f20de09 704K com.google.android.apps.cultural tiwai2.tflite tensorflow:liblookalike_shared_jni.so other:liblookalike_shared_jni.so
+6.721459 d6a0374b 384K com.google.android.apps.cultural fssd_25_8bit_v1.tflite tensorflow:liblookalike_shared_jni.so other:liblookalike_shared_jni.so
+7.533049 1a9524b2 36K com.google.android.apps.photosgo awb_table_kernels_dft_base_photos_srgb.bin tensorflow:libnative.so other:libnative.so
+6.485861 abf3bc23 2.3M com.google.android.apps.photosgo mobile_ica_8bit_v2.tflite tensorflow:libnative.so other:libnative.so
+6.702872 c063dbbf 228K com.google.android.apps.photosgo fssd_25_8bit_v2.tflite tensorflow:libnative.so other:libnative.so
+6.845405 96ebf11e 3.2M com.futureme.palmreader models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.futureme.palmreader models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.futureme.palmreader models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.futureme.palmreader models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.futureme.palmreader models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.futureme.palmreader models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.432087 90b331a9 392K com.lyrebirdstudio.face_camera ULSFaceTrackerAssets/det2.bin uls:libulsTracker_native.so other:libulsTracker_native.so
+7.415996 288759e6 28K com.lyrebirdstudio.face_camera ULSFaceTrackerAssets/det1.bin uls:libulsTracker_native.so other:libulsTracker_native.so
+7.419491 e12e387a 7.7M com.lyrebirdstudio.face_camera ULSFaceTrackerAssets/ulsTracker.model uls:libulsTracker_native.so other:libulsTracker_native.so
+7.435917 86d65f6a 1.5M com.lyrebirdstudio.face_camera ULSFaceTrackerAssets/det3.bin uls:libulsTracker_native.so other:libulsTracker_native.so
+7.999923 8fef4e77 2.3M com.littlebee.beauty.selfie.camera track_face_action1.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so
+7.989993 ffa3de84 52K com.littlebee.beauty.selfie.camera af.bin caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so
+7.992735 e8f4fa28 32K com.littlebee.beauty.selfie.camera signed.bin caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so
+7.999923 8fef4e77 2.3M com.icameraapple.ioscamera.xscamera.icamera track_face_action1.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so,libavformat-57.so
+6.845405 96ebf11e 3.2M com.live.videochat.india models/fssd_100_8bit_gray_v1.tflite tensorflow:libtensorflowlite_jni.so,libface_detector_v2_jni.so caffe:libnama.so other:libtraeimp-rtmp-armeabi-v7a.so,libtensorflowlite_jni.so,libnama.so,libface_detector_v2_jni.so,libjingle_peerconnection_so.so,libtraeimp-rtmp-armeabi.so
+7.482131 94152bcf 1.3M com.live.videochat.india models/contours.tfl tensorflow:libtensorflowlite_jni.so,libface_detector_v2_jni.so caffe:libnama.so other:libtraeimp-rtmp-armeabi-v7a.so,libtensorflowlite_jni.so,libnama.so,libface_detector_v2_jni.so,libjingle_peerconnection_so.so,libtraeimp-rtmp-armeabi.so
+7.467573 82f889ba 340K com.live.videochat.india models/blazeface.tfl tensorflow:libtensorflowlite_jni.so,libface_detector_v2_jni.so caffe:libnama.so other:libtraeimp-rtmp-armeabi-v7a.so,libtensorflowlite_jni.so,libnama.so,libface_detector_v2_jni.so,libjingle_peerconnection_so.so,libtraeimp-rtmp-armeabi.so
+6.721459 d6a0374b 384K com.live.videochat.india models/fssd_25_8bit_v1.tflite tensorflow:libtensorflowlite_jni.so,libface_detector_v2_jni.so caffe:libnama.so other:libtraeimp-rtmp-armeabi-v7a.so,libtensorflowlite_jni.so,libnama.so,libface_detector_v2_jni.so,libjingle_peerconnection_so.so,libtraeimp-rtmp-armeabi.so
+6.998999 3898bda3 384K com.live.videochat.india models/fssd_25_8bit_gray_v1.tflite tensorflow:libtensorflowlite_jni.so,libface_detector_v2_jni.so caffe:libnama.so other:libtraeimp-rtmp-armeabi-v7a.so,libtensorflowlite_jni.so,libnama.so,libface_detector_v2_jni.so,libjingle_peerconnection_so.so,libtraeimp-rtmp-armeabi.so
+6.780277 54190dbb 3.2M com.live.videochat.india models/fssd_100_8bit_v1.tflite tensorflow:libtensorflowlite_jni.so,libface_detector_v2_jni.so caffe:libnama.so other:libtraeimp-rtmp-armeabi-v7a.so,libtensorflowlite_jni.so,libnama.so,libface_detector_v2_jni.so,libjingle_peerconnection_so.so,libtraeimp-rtmp-armeabi.so
+7.990114 e16b4351 24K com.huya.nimo br_filter_portrait/filter_style_modern_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+7.998606 0662b705 152K com.huya.nimo br_filter_portrait/filter_style_se_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+7.999952 f9b9fc09 3.6M com.huya.nimo br_M_SenseME_Action_5.5.1.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+7.982041 a9ab7eea 12K com.huya.nimo br_filter_portrait/filter_style_purefresh_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+7.996461 50ca76d5 52K com.huya.nimo br_filter_portrait/filter_style_sofina_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+7.980672 ca9d7263 12K com.huya.nimo br_filter_portrait/filter_style_danube_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+7.990177 abb3ecd0 24K com.huya.nimo br_filter_portrait/filter_style_cherry_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libijkffmpeg.so
+6.687199 2b5e4cb9 260K com.magicvcam.super.selfiecam.camera style/base/PSOverlay.bin caffe:libMTLabFace.so other:libeffect_core.so,libana-sdk.so,libMTLabFace.so
+6.456549 abff79bd 20K com.magicvcam.super.selfiecam.camera style/base/mouthzr.bin caffe:libMTLabFace.so other:libeffect_core.so,libana-sdk.so,libMTLabFace.so
+0.825352 6423ec58 260K com.magicvcam.super.selfiecam.camera style/base/teeth/TeethModel.bin caffe:libMTLabFace.so other:libeffect_core.so,libana-sdk.so,libMTLabFace.so
+4.289152 e7d9f401 20K com.magicvcam.super.selfiecam.camera style/base/tone4.bin caffe:libMTLabFace.so other:libeffect_core.so,libana-sdk.so,libMTLabFace.so
+4.289152 e7d9f401 20K com.magicvcam.super.selfiecam.camera style/base/tone3.bin caffe:libMTLabFace.so other:libeffect_core.so,libana-sdk.so,libMTLabFace.so
+7.999923 8fef4e77 2.3M com.pure.camera.detector.road track_face_action1.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so
+7.989606 b47d1d63 52K com.pure.camera.detector.road af.bin caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so
+7.985239 de15fd09 36K com.pure.camera.detector.road signed.bin caffe:libst_mobile.so sensetime:libst_mobile.so other:libst_mobile.so
+7.436526 31395efa 1.6M com.photo.pipcam.eidtor.camera 3_class_model caffe:libFaceSDK.so
+6.756698 5335896f 148K com.photo.pipcam.eidtor.camera facialLandmarksModel.mean caffe:libFaceSDK.so
+7.446136 f22933c3 836K com.photo.pipcam.eidtor.camera facialLandmarksModel.cdnn caffe:libFaceSDK.so
+7.571977 e9b90e8f 276K com.photo.pipcam.eidtor.camera 7_class_model caffe:libFaceSDK.so
+7.447013 4cc8ab09 2.7M com.photo.pipcam.eidtor.camera align_model.binary caffe:libFaceSDK.so
+7.385400 9b4af2a9 496K com.senegence.android.senelooks model/seg_init_net_20180326_android.bin ncnn:libvenus.so other:libvenus.so
+6.739022 c6e4c954 508K com.senegence.android.senelooks model/faceart_20180917.model ncnn:libvenus.so other:libvenus.so
+7.367817 02c1e9be 120K com.senegence.android.senelooks model/pose_20180530.mtnet ncnn:libvenus.so other:libvenus.so
+7.665278 413bd130 6.5M com.senegence.android.senelooks model/YMK_Venus_20190117.regressor ncnn:libvenus.so other:libvenus.so
+5.392381 2469f333 148K com.senegence.android.senelooks model/eyebrow_20181225.model ncnn:libvenus.so other:libvenus.so
+7.484612 35654397 1.8M com.shutterfly frozen_model_e.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so,libj2v8.so
+0.955920 fccbd8da 8.0K com.photoeditor.imagecutter.cameffect modle/ncnn1.proto ncnn:libnativeai.so other:libnativeai.so
+0.976057 6d122df8 180K com.photoeditor.imagecutter.cameffect modle/person.proto ncnn:libnativeai.so other:libnativeai.so
+1.383670 a75356b5 36K com.photoeditor.imagecutter.cameffect modle/style.proto ncnn:libnativeai.so other:libnativeai.so
+0.898837 7f5cbbab 12K com.photoeditor.imagecutter.cameffect modle/ncnn3.proto ncnn:libnativeai.so other:libnativeai.so
+7.346702 ddae6c12 1.5M com.photoeditor.imagecutter.cameffect modle/person.bin ncnn:libnativeai.so other:libnativeai.so
+7.059402 da6271f5 920K com.photoeditor.imagecutter.cameffect modle/style.bin ncnn:libnativeai.so other:libnativeai.so
+0.898599 4fde252c 8.0K com.photoeditor.imagecutter.cameffect modle/ncnn2.proto ncnn:libnativeai.so other:libnativeai.so
+7.435917 74ad6e3d 1.5M com.photoeditor.imagecutter.cameffect modle/ncnn3.bin ncnn:libnativeai.so other:libnativeai.so
+7.432087 21683c48 392K com.photoeditor.imagecutter.cameffect modle/ncnn2.bin ncnn:libnativeai.so other:libnativeai.so
+7.415996 631088fe 28K com.photoeditor.imagecutter.cameffect modle/ncnn1.bin ncnn:libnativeai.so other:libnativeai.so
+7.279250 2bbd50f6 4.6M com.tyndale.filament filament.tflite tensorflow:libtensorflowlite_jni.so other:libtensorflowlite_jni.so
+6.719830 64c8bc96 552K com.thmobile.sketchphotomaker stylize_quantized.pb tensorflow:libtensorflow_inference.so
+7.989970 f92813de 24K com.unico.live filter_style_babypink_5.8.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libsmsdk.so,libzegoliveroom.so
+7.999856 0f261bdd 1.5M com.unico.live action_5.0.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libsmsdk.so,libzegoliveroom.so
+2.764062 c6faad31 64K com.ua.building.Lokicraft images/font/glyph_sizes.bin ncnn:libgame.so other:libgame.so
+6.845405 96ebf11e 3.2M com.text.metal.effect models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.text.metal.effect models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.text.metal.effect models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.text.metal.effect models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.text.metal.effect models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.text.metal.effect models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+2.764062 c6faad31 64K com.ua.toybuilding.survival images/font/glyph_sizes.bin ncnn:libgame.so other:libgame.so
+6.845405 96ebf11e 3.2M face.hw.com.facehub models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M face.hw.com.facehub models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K face.hw.com.facehub models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K face.hw.com.facehub models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K face.hw.com.facehub models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M face.hw.com.facehub models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.997726 99b64796 84K ctrip.android.view filter_still_life/filter_style_chaplin_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.990397 dab3e00e 24K ctrip.android.view filter_portrait/filter_style_pretty_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.982053 f42bb8b8 12K ctrip.android.view filter_portrait/filter_style_danube_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.996254 79a953f4 52K ctrip.android.view filter_still_life/filter_style_grace_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.997092 da34ad23 72K ctrip.android.view filter_scenery/filter_style_gothic_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.981929 b2c038ad 12K ctrip.android.view filter_still_life/filter_style_ueno_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.996026 4a50109c 52K ctrip.android.view filter_portrait/filter_style_sofina_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.997907 330d5eeb 84K ctrip.android.view filter_scenery/filter_style_fortune_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.991406 2869c403 24K ctrip.android.view filter_portrait/filter_style_babypink_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.991406 c1209ac0 24K ctrip.android.view filter_portrait/filter_style_bright_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.980908 83a43bcd 12K ctrip.android.view filter_food/filter_style_aden_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.983907 5a4bf41a 12K ctrip.android.view filter_food/filter_style_macbeth_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.997407 1c88e30f 72K ctrip.android.view filter_portrait/filter_style_lofi_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.983404 a76c9335 12K ctrip.android.view filter_scenery/filter_style_vintage_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.991672 ebe7a856 24K ctrip.android.view filter_portrait/filter_style_sakura_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.983709 40328a52 12K ctrip.android.view filter_scenery/filter_style_izu_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.990862 9bdc3c59 24K ctrip.android.view filter_portrait/filter_style_cherry_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.983080 78b05b3a 12K ctrip.android.view filter_still_life/filter_style_c1_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.983203 8a1f9b3d 12K ctrip.android.view filter_scenery/filter_style_forest_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.982259 19e79cb7 12K ctrip.android.view filter_still_life/filter_style_1973_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.998824 c993ee5e 164K ctrip.android.view filter_still_life/filter_style_a6_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.991423 79cdadcf 24K ctrip.android.view filter_portrait/filter_style_peach_1.5.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.981147 aa258340 12K ctrip.android.view filter_portrait/filter_style_elegant_1.4.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so other:libst_mobile.so,libctrip_android_pay.so,libctrip_android_train.so,libctrip_android_chat.so,libctrip_android_train_part.so,libctrip_android_destination.so,libctrip_android_livestream.so,libctrip_android_flight_xproduct.so,libctrip_android_customerservice.so,libctrip_android_tour_bussiness.so,libctrip_android_destination_story.so,libctrip_android_destination_strategy.so,libcronet.63.0.3203.0.so,libtoyger.so,libbdEASRAndroid.so
+7.428750 b9eb6d37 8.4M cutcut.cut.out.paste.background.remove.photo.cutout a.pb tensorflow:libtensorflow_inference.so other:libRSSupport.so,libtensorflow_inference.so
+com.yinzcam.nfl.chiefs Models/S47775 LiveDriver ProjectXAndroid.imbin tensorflow:libLiveDriverSDK.so caffe:libLiveDriverSDK.so other:libVuforia.so,libLiveDriverSDK.so
+com.yinzcam.nfl.bears Models/S49784 LiveDriver ProjectXAndroidAC.imbin tensorflow:libLiveDriverSDK.so caffe:libLiveDriverSDK.so other:libLiveDriverSDK.so
+7.428750 b9eb6d37 8.4M com.vyroai.AiBlurEditor train_model.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+7.428750 b9eb6d37 8.4M com.vyroai.AiBlurEditor data_513.pb tensorflow:libtensorflow_inference.so other:libtensorflow_inference.so
+6.721459 d6a0374b 384K facetechstudio.future.me models/fssd_25_8bit_v1.tflite tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libopencv_java3.so
+6.780277 54190dbb 3.2M facetechstudio.future.me models/fssd_100_8bit_v1.tflite tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libopencv_java3.so
+6.845405 96ebf11e 3.2M facetechstudio.future.me models/fssd_100_8bit_gray_v1.tflite tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libopencv_java3.so
+7.482131 94152bcf 1.3M facetechstudio.future.me models/contours.tfl tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libopencv_java3.so
+7.467573 82f889ba 340K facetechstudio.future.me models/blazeface.tfl tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libopencv_java3.so
+6.998999 3898bda3 384K facetechstudio.future.me models/fssd_25_8bit_gray_v1.tflite tensorflow:libopencv_java3.so caffe:libopencv_java3.so other:libopencv_java3.so
+6.899531 900bddd8 2.0M com.waze res/hotword_detector_sensory/trigger_google_x_en_US_01_okwaze_sfs14/google_x_okwaze_en_US_sfs14_b3e3cbba_delivery01_am.raw sensetime:libwaze.so other:libwaze.so
+7.432087 90b331a9 392K co.theguru.dali ULSFaceTrackerAssets/det2.bin uls:libulsCppTracker_native_lite.so,libulsCppTracker_unity_lite.so other:libulsCppTracker_native_lite.so,libVuforia.so
+7.415996 288759e6 28K co.theguru.dali ULSFaceTrackerAssets/det1.bin uls:libulsCppTracker_native_lite.so,libulsCppTracker_unity_lite.so other:libulsCppTracker_native_lite.so,libVuforia.so
+7.419491 e12e387a 7.7M co.theguru.dali ULSFaceTrackerAssets/ulsTracker.model uls:libulsCppTracker_native_lite.so,libulsCppTracker_unity_lite.so other:libulsCppTracker_native_lite.so,libVuforia.so
+7.435917 86d65f6a 1.5M co.theguru.dali ULSFaceTrackerAssets/det3.bin uls:libulsCppTracker_native_lite.so,libulsCppTracker_unity_lite.so other:libulsCppTracker_native_lite.so,libVuforia.so
+6.845405 96ebf11e 3.2M com.usablenet.mobile.walgreen models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M com.usablenet.mobile.walgreen models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K com.usablenet.mobile.walgreen models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K com.usablenet.mobile.walgreen models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K com.usablenet.mobile.walgreen models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M com.usablenet.mobile.walgreen models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+com.yinzcam.nfl.ravens Models/S49784 LiveDriver ProjectXAndroidAC.imbin tensorflow:libLiveDriverSDK.so caffe:libLiveDriverSDK.so other:libLiveDriverSDK.so
+7.481051 77500f66 1.1M ir.hafhashtad.android780 optimized_graph.pb tensorflow:libtensorflow_inference.so other:libiconv.so
+7.435162 df403c0c 976K ir.hafhashtad.android780 optimized_graph_datebox.pb tensorflow:libtensorflow_inference.so other:libiconv.so
+7.480848 36812297 2.5M ir.hafhashtad.android780 frozen_inference_graph.pb tensorflow:libtensorflow_inference.so other:libiconv.so
+6.845405 96ebf11e 3.2M stickerwhatsapp.com.stickers models/fssd_100_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.482131 94152bcf 1.3M stickerwhatsapp.com.stickers models/contours.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.467573 82f889ba 340K stickerwhatsapp.com.stickers models/blazeface.tfl tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.721459 d6a0374b 384K stickerwhatsapp.com.stickers models/fssd_25_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.998999 3898bda3 384K stickerwhatsapp.com.stickers models/fssd_25_8bit_gray_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+6.780277 54190dbb 3.2M stickerwhatsapp.com.stickers models/fssd_100_8bit_v1.tflite tensorflow:libface_detector_v2_jni.so other:libface_detector_v2_jni.so
+7.999795 4f10dce5 4.1M sg.bigo.date model/human_face_detection_model_LATEST.bin ncnn:libbvtMobile.so,libbigonn.so other:libbvtMobile.so,libvpsdk.so,libbigonn.so
+7.994599 b64a4d51 40K video.like CNNSegment/en.param caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so,libvenus.so ncnn:libbvtMobile.so,libSegUpper.so,libActionId.so,libbigonn.so,libCnnSegment.so other:libst_mobile.so,libvpsdk.so,libActionId.so,libbigonn.so,libCnnSegment.so
+7.995035 1caa0e6b 1.1M video.like CNNSegment/en.bin caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so,libvenus.so ncnn:libbvtMobile.so,libSegUpper.so,libActionId.so,libbigonn.so,libCnnSegment.so other:libst_mobile.so,libvpsdk.so,libActionId.so,libbigonn.so,libCnnSegment.so
+7.999856 0f261bdd 1.5M video.like senseAr/M_SenseME_Face_Picture_5.3.3.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so,libvenus.so ncnn:libbvtMobile.so,libSegUpper.so,libActionId.so,libbigonn.so,libCnnSegment.so other:libst_mobile.so,libvpsdk.so,libActionId.so,libbigonn.so,libCnnSegment.so
+7.999881 7d13d564 1.4M video.like senseAr/M_SenseME_Face_Extra_5.22.0.model caffe:libst_mobile.so sensetime:libst_mobile.so,libstmobile_jni.so,libvenus.so ncnn:libbvtMobile.so,libSegUpper.so,libActionId.so,libbigonn.so,libCnnSegment.so other:libst_mobile.so,libvpsdk.so,libActionId.so,libbigonn.so,libCnnSegment.so
+6.756698 5335896f 148K valencia.magic.selfie.makeup.camer.photo.editor pts.param caffe:libfotobeautyengine.so ncnn:libncnn_style.0.2.so other:libSkyFilter.so,libncnn_style.0.2.so,libfotobeautyengine.so
+7.529852 3b115897 2.2M valencia.magic.selfie.makeup.camer.photo.editor pts.model caffe:libfotobeautyengine.so ncnn:libncnn_style.0.2.so other:libSkyFilter.so,libncnn_style.0.2.so,libfotobeautyengine.so
+7.990705 269221dc 200K io.trade.tradeio.eu microblink/model_eudl.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.999932 baed114c 2.8M io.trade.tradeio.eu microblink/nn_model_BlinkInputOcr_general_5.1.0.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+4.408778 508f80c2 8.0K io.trade.tradeio.eu cardrecognizer/model/DateRecognition/DateRecognition.prototxt caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.999869 f6a7cdb7 1.5M io.trade.tradeio.eu microblink/nn_model_BlinkCreditCardOcr_general_5.2.0.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.990909 6bf95551 100K io.trade.tradeio.eu microblink/model_micr.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.991110 e8464039 136K io.trade.tradeio.eu microblink/model_mrtd.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+4.593107 ed94ba53 8.0K io.trade.tradeio.eu cardrecognizer/model/DateLocalization/DateLocalizationL1.prototxt caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.993368 4507b763 4.1M io.trade.tradeio.eu microblink/model_general_blink_ocr.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.999749 9a1cabc7 668K io.trade.tradeio.eu microblink/nn_model_BlinkIDOcr_mrz_5.2.0.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.990391 dc1a1a1b 164K io.trade.tradeio.eu microblink/model_arabic.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.384388 68ff07d6 744K io.trade.tradeio.eu cardrecognizer/model/DateLocalization/DateLocalizationL1.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.999858 4f1eaf8f 1.5M io.trade.tradeio.eu microblink/nn_model_BlinkIDOcr_general_5.2.0.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.399553 17bb9b10 1.2M io.trade.tradeio.eu cardrecognizer/model/NumberRecognition/NumberRecognition.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.450374 b44a45ba 2.6M io.trade.tradeio.eu cardrecognizer/model/NameRecognition/NameSpaceCharRecognition.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.385157 ae01b7cc 840K io.trade.tradeio.eu cardrecognizer/model/DateLocalization/DateLocalizationL0.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.993763 e1a9eea2 96K io.trade.tradeio.eu microblink/face_detector_model.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.990749 5fb81a92 148K io.trade.tradeio.eu microblink/model_malaysian.zzip caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.361970 6c5590a0 552K io.trade.tradeio.eu cardrecognizer/model/NameLocalization/NameLocalizationX.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.413687 55d6b9cb 728K io.trade.tradeio.eu cardrecognizer/model/NumberLocalization/loc_x.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.381402 90e71a69 588K io.trade.tradeio.eu cardrecognizer/model/NumberLocalization/loc_y.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.379416 8e817927 580K io.trade.tradeio.eu cardrecognizer/model/DateRecognition/DateRecognition.caffemodel caffe:libcardrecognizer.so other:libcardrecognizer.so
+7.999536 b36a7996 424K org.dayup.stocks M_Detect_Hunter_SmallFace.model caffe:libstidinteractive_liveness.so sensetime:libjni_liveness_interactive.so other:libstidinteractive_liveness.so
+7.999669 da38a429 432K org.dayup.stocks M_Align_occlusion.model caffe:libstidinteractive_liveness.so sensetime:libjni_liveness_interactive.so other:libstidinteractive_liveness.so
+7.998908 195eebb5 164K org.dayup.stocks M_Liveness_Cnn_half.model caffe:libstidinteractive_liveness.so sensetime:libjni_liveness_interactive.so other:libstidinteractive_liveness.so
+7.997844 cd377225 16M ru.mail init/models/model11/36373a8dc69a5fbfc0011183bdc7253d.zip ncnn:libvoip_armv7-a-neon.so other:libvoip_armv7-a-neon.so

@@ -1,0 +1,11 @@
+360 App Store:
+    Around 31323 apps(results of `ls -lR |wc -l`)
+
+Baidu App Store:
+    Around 2343 apps
+
+Tencent App Store:
+    Around 2220 apps
+
+Google Play Apps:
+    Around 12542 apps

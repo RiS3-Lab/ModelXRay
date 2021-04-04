@@ -1,0 +1,10 @@
+ag -f -l -s bankcard reports/ |wc -l
+ag -l recog $(ag -f -l -s face reports/) |wc -l
+grep -l handdetect reports/* |wc -l
+grep -l handwriting reports/* |wc -l
+ag -f -l -s idcard reports/ |wc -l
+grep -l iris reports/* |wc -l
+ag -l liveness $(ag -f -l -s face reports/) |wc -l
+ag -f -l -s ocr reports/ |wc -l
+ag -f -l -s speech reports/ |wc -l
+ag -l track $(ag -f -l -s face reports/) |wc -l

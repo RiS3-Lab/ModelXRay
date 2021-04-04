@@ -1,0 +1,124 @@
+statistics for /home/ruimin/nfs/modelxray/360_output/reports
+fws: tensorflow caffe sensetime ncnn other mxnet uls mace
+
+OCR
+tensorflow :  11
+caffe :  38
+sensetime :  14
+ncnn :  23
+other :  149
+mxnet :  0
+uls :  1
+mace :  0
+tflite : 1
+
+ocr
+tensorflow :  36
+caffe :  168
+sensetime :  128
+ncnn :  34
+other :  332
+mxnet :  1
+uls :  2
+mace :  0
+tflite : 5
+
+speech
+tensorflow :  3
+caffe :  31
+sensetime :  8
+ncnn :  10
+other :  213
+mxnet :  1
+uls :  0
+mace :  0
+tflite : 0
+
+idcard
+tensorflow :  23
+caffe :  216
+sensetime :  136
+ncnn :  38
+other :  375
+mxnet :  0
+uls :  1
+mace :  0
+tflite : 5
+
+bankcard
+tensorflow :  9
+caffe :  115
+sensetime :  109
+ncnn :  13
+other :  141
+mxnet :  0
+uls :  0
+mace :  0
+tflite : 2
+
+recog
+tensorflow :  14
+caffe :  108
+sensetime :  89
+ncnn :  34
+other :  127
+mxnet :  1
+uls :  0
+mace :  1
+tflite : 4
+
+liveness
+tensorflow :  24
+caffe :  348
+sensetime :  307
+ncnn :  60
+other :  360
+mxnet :  1
+uls :  0
+mace :  1
+tflite : 6
+
+track
+tensorflow :  21
+caffe :  252
+sensetime :  198
+ncnn :  50
+other :  279
+mxnet :  4
+uls :  21
+mace :  0
+tflite : 5
+
+handdetect
+tensorflow :  6
+caffe :  15
+sensetime :  1
+ncnn :  14
+other :  16
+mxnet :  0
+uls :  0
+mace :  0
+tflite : 0
+
+handwriting
+tensorflow :  1
+caffe :  0
+sensetime :  0
+ncnn :  2
+other :  5
+mxnet :  0
+uls :  0
+mace :  0
+tflite : 0
+
+iris
+tensorflow :  0
+caffe :  4
+sensetime :  0
+ncnn :  2
+other :  6
+mxnet :  3
+uls :  0
+mace :  0
+tflite : 0
+

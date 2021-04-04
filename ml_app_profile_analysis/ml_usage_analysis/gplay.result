@@ -1,0 +1,124 @@
+statistics for /home/ruimin/nfs/modelxray/gplay_output/reports
+fws: tensorflow caffe sensetime ncnn other mxnet uls mace
+
+OCR
+tensorflow :  0
+caffe :  0
+sensetime :  0
+ncnn :  1
+other :  1
+mxnet :  0
+uls :  0
+mace :  6
+tflite : 0
+
+ocr
+tensorflow :  0
+caffe :  1
+sensetime :  0
+ncnn :  0
+other :  19
+mxnet :  0
+uls :  0
+mace :  9
+tflite : 0
+
+speech
+tensorflow :  2
+caffe :  0
+sensetime :  1
+ncnn :  0
+other :  3
+mxnet :  0
+uls :  0
+mace :  9
+tflite : 1
+
+idcard
+tensorflow :  0
+caffe :  0
+sensetime :  0
+ncnn :  0
+other :  0
+mxnet :  0
+uls :  0
+mace :  9
+tflite : 0
+
+bankcard
+tensorflow :  0
+caffe :  0
+sensetime :  0
+ncnn :  0
+other :  0
+mxnet :  0
+uls :  0
+mace :  9
+tflite : 0
+
+recog
+tensorflow :  0
+caffe :  1
+sensetime :  0
+ncnn :  0
+other :  10
+mxnet :  9
+uls :  0
+mace :  3
+tflite : 0
+
+liveness
+tensorflow :  0
+caffe :  11
+sensetime :  11
+ncnn :  3
+other :  12
+mxnet :  9
+uls :  0
+mace :  3
+tflite : 0
+
+track
+tensorflow :  0
+caffe :  5
+sensetime :  6
+ncnn :  0
+other :  10
+mxnet :  9
+uls :  3
+mace :  3
+tflite : 0
+
+handdetect
+tensorflow :  0
+caffe :  0
+sensetime :  0
+ncnn :  0
+other :  0
+mxnet :  0
+uls :  0
+mace : 0
+tflite : 0
+
+handwriting
+tensorflow :  2
+caffe :  0
+sensetime :  0
+ncnn :  0
+other :  2
+mxnet :  0
+uls :  0
+mace : 0
+tflite : 2
+
+iris
+tensorflow :  0
+caffe :  0
+sensetime :  0
+ncnn :  0
+other :  1
+mxnet :  0
+uls :  0
+mace : 0
+tflite : 0
+

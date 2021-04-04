@@ -1,0 +1,5 @@
+frida -U -f com.youdao.note -l intercept_sysload2.js --no-pause
+Memory.scan(ptr(0x896834c0),32*1024,"69 6e 70", {onMatch: function (address, size){console.warn("matched!");},onError:function(reason){console.warn("error");},onComplete:function(){console.warn("completed!");}})
+Memory.readByteArray(ptr(0x896834c0),10) 
+Process.enumerateModules()
+hexdump -e '8/1 "%02X ""\n"" "'  -n 30

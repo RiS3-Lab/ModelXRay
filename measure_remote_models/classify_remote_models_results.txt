@@ -1,0 +1,6 @@
+./classify_remote_models.py MobileDL__data__raw_apks.txt,Spider__360app_raw_apks.txt,Spider__baiduapp_raw_apks.txt,Spider__tencentapp_raw_apks.txt
+
+    {'Baidu:Synthesizer': 774, 'Google:AI': 32, 'Baidu:NLP': 425, 'Baidu:OCR': 254}
+
+./classify_remote_models.py MobileDL__data__raw_apks.txt,Spider__360app_raw_apks.txt,Spider__tencentapp_raw_apks.txt
+{'Baidu:Synthesizer': 730, 'Google:AI': 32, 'Baidu:NLP': 345, 'Baidu:OCR': 234}

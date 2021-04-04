@@ -1,0 +1,14 @@
+ec7c8bdc:
+	cn.mifengkong.huaxiaapp SenseID_Liveness_Interactive.lic
+	cn.yuanguan.shandianjiekuan SenseID_Liveness_Interactive.lic
+
+341ed19f:
+	com.qzone com_tencent_2118.lic
+	com.tencent.weishi com_tencent_2118.lic
+
+1fcffede:
+	com.icbc.im bh_liveness_extr.lic
+	com.icbc bh_liveness_extr.lic
+
+
+Identified 3 suspected license reuse cases among different apps

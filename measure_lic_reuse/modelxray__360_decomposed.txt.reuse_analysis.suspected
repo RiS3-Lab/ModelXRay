@@ -1,0 +1,359 @@
+291ccc15:
+	com.ccb.bluesearent_27 liveness.lic
+	com.hxyd.hebgjj_119 liveness.lic
+
+37ad272e:
+	com.tmri.app.main_20302 SenseID_Liveness.lic
+	com.cmbc.cc.mbank_60000 SenseID_Liveness.lic
+
+17dedde0:
+	com.jiaoyang.shangshangqian_100 SenseID_Liveness_Interactive.lic
+	com.letianpai.lzyq_102 SenseID_Liveness_Interactive.lic
+
+ae0ad9b6:
+	com.suning.mobile.epa_301 SenseID_Liveness_Silent.lic
+	com.longzhu.tga_2019071214 SenseID_Liveness_Silent.lic
+
+add69754:
+	com.cmf.cqwallet_33 liveness.lic
+	com.xky.app.patient_63 liveness.lic
+
+af04fc1e:
+	com.epay.impay.ui.yjqb_67 7332DBAFD2FD18301EF6.lic
+	com.epay.impay.ui.flinmen_78 7332DBAFD2FD18301EF6.lic
+	com.leadu.taimengbao_103 7332DBAFD2FD18301EF8.lic
+	com.leadu.taimengbao_103 7332DBAFD2FD18301EF6.lic
+	com.leadu.taimengbao_103 7332DBAFD2FD18301EF7.lic
+
+d120d486:
+	com.jieyisoft.weex.yktApp_123 liveness.lic
+	com.entrobus.dreamlife_116 liveness.lic
+
+c0025861:
+	com.time.android.vertical_new_henanzhuizi_65055 SenseME.lic
+	com.waqu.android.vertical_huangmeixi_65050 SenseME.lic
+	com.zhiyuan.android.vertical_s_quju_65055 SenseME.lic
+	com.zhiyuan.android.vertical_s_henanxiqu_65050 SenseME.lic
+	com.waqu.android.vertical_yuju_65050 SenseME.lic
+	com.time.android.vertical_new_minjianxiaodiao_65055 SenseME.lic
+	com.time.android.vertical_new_liyuanchun_65055 SenseME.lic
+	com.tianming.android.vertical_5huaguxi_65055 SenseME.lic
+	com.waqu.android.vertical_g_taiji_65055 SenseME.lic
+	com.zhiyuan.android.vertical_s_henanyuju_65055 SenseME.lic
+	com.zhiyuan.android.vertical_s_guizhoushange_65050 SenseME.lic
+	com.time.android.vertical_new_guangchangwu_65050 SenseME.lic
+
+e2a8012d:
+	com.hzkx.youqianbao_119 SenseID_OCR.lic
+	com.gych.yinyinyq_105 SenseID_OCR.lic
+	com.hfjh.jiangjund_103 SenseID_OCR.lic
+	com.sdkj.jinlaijie_111 SenseID_OCR.lic
+	com.wkjf.qianmiaodai_153 SenseID_OCR.lic
+	com.scyghy.yangguangmd_109 SenseID_OCR.lic
+	cn.sd.miaodaofenqi_103 SenseID_OCR.lic
+	com.hyxc.huiyaoxc_105 SenseID_OCR.lic
+	com.yqybwl.yanlesd_109 SenseID_OCR.lic
+	com.kyxx.jikeh_109 SenseID_OCR.lic
+	com.zjyr.xdd_115 SenseID_OCR.lic
+	com.gtkj.miaoquxh_113 SenseID_OCR.lic
+
+fa45eac9:
+	com.kaixin.android.vertical_3_pingju_66085 SenseME.lic
+	com.waqu.android.vertical_exo_66085 SenseME.lic
+	com.kaixin.android.vertical_3_baixuegongzhu_66085 SenseME.lic
+	com.time.android.vertical_new_taiquandaosp_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_jianmeicao_66085 SenseME.lic
+	com.waqu.android.vertical_mingruoxiaoxi_66085 SenseME.lic
+	com.kaixin.android.vertical_3_yanbaojiancao_66085 SenseME.lic
+	com.kaixin.android.vertical_3_sakesi_66085 SenseME.lic
+	com.kaixin.android.vertical_3_yuebing_66085 SenseME.lic
+	com.tianming.android.vertical_5h1z1_66085 SenseME.lic
+	com.time.android.vertical_new_chenshitaijiquan_66085 SenseME.lic
+	com.time.android.vertical_new_yangyang_66085 SenseME.lic
+	com.time.android.vertical_new_xingjihuoxian_66085 SenseME.lic
+	com.tianming.android.vertical_5maozibianzhi_66085 SenseME.lic
+	com.time.android.vertical_new_jiaobanche_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_maozibianzhi_66085 SenseME.lic
+	com.kaixin.android.vertical_3_ertongxtwd_66085 SenseME.lic
+	com.time.android.vertical_new_changgejiqiao_66085 SenseME.lic
+	com.tongxing.android.vertical_tong_xiaolingwanjudq_66085 SenseME.lic
+	com.time.android.vertical_new_pukepaimoshu_66085 SenseME.lic
+	com.kaixin.android.vertical_3_etgqsp_66085 SenseME.lic
+	com.waqu.android.vertical_kemu3_66085 SenseME.lic
+	com.time.android.vertical_new_btsp_66085 SenseME.lic
+	com.kaixin.android.vertical_3_lingdaidafa_66085 SenseME.lic
+	com.kaixin.android.vertical_3jianzhi_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_kaishu_66085 SenseME.lic
+	com.tianming.android.vertical_5guzheng_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_djwuqu_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_daoche_66085 SenseME.lic
+	com.tianming.android.vertical_5donghuapian_66085 SenseME.lic
+	com.kaixin.android.vertical_3_gangbishufa_66085 SenseME.lic
+	com.tianming.android.vertical_5baoabaotongyao_66085 SenseME.lic
+	com.time.android.vertical_new_jidujiao_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_zaojiao_66085 SenseME.lic
+	com.time.android.vertical_new_sanbucai_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_mingedaquan_66085 SenseME.lic
+	com.time.android.vertical_3_yuejumingqu_66085 SenseME.lic
+	com.waqu.android.vertical_dabeizhou_66085 SenseME.lic
+	com.tianming.android.vertical_5tudouxia_66085 SenseME.lic
+	com.tianming.android.vertical_5jingjumao_66085 SenseME.lic
+	com.tianming.android.vertical_5longzhuchao_66085 SenseME.lic
+	com.waqu.android.vertical_xiaopingguo_66085 SenseME.lic
+	com.kaixin.android.vertical_3_baozi_66085 SenseME.lic
+	com.kaixin.android.vertical_3_jiamusi_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_shuyazi_66085 SenseME.lic
+	com.zhiyuan.android.vertical_s_buqileleyuan_66085 SenseME.lic
+
+d417f7ad:
+	com.xiaomi.hm.health_8046 E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+	com.huami.watch.hmwatchmanager_32528 E14FEE65-71A0-4717-9D66-3397B6C11223.lic
+
+0f579640:
+	com.suma.gztong_103 liveness.lic
+	szhome.bbs_476 liveness.lic
+
+095fbbdb:
+	com.grcbank.zxbank_1087 Wa_SenseID_Liveness.lic
+	com.hanweb.android.jszwfw.activity_86 Wa_SenseID_Liveness.lic
+	com.xmd.yuejmt_12 Wa_SenseID_Liveness.lic
+	com.hoperun.intelligenceportal_93 Wa_SenseID_Liveness.lic
+
+845ea79d:
+	com.xiaomi.hm.health_8046 3304-145-888527118b1a5d87d3e4a251d1b23555.lic
+	com.huami.watch.hmwatchmanager_32528 3304-145-888527118b1a5d87d3e4a251d1b23555.lic
+
+55a2ee56:
+	com.hzkx.youqianbao_119 SenseID_Liveness_Interactive.lic
+	com.gych.yinyinyq_105 SenseID_Liveness_Interactive.lic
+	com.hfjh.jiangjund_103 SenseID_Liveness_Interactive.lic
+	com.sdkj.jinlaijie_111 SenseID_Liveness_Interactive.lic
+	com.wkjf.qianmiaodai_153 SenseID_Liveness_Interactive.lic
+	com.scyghy.yangguangmd_109 SenseID_Liveness_Interactive.lic
+	cn.sd.miaodaofenqi_103 SenseID_Liveness_Interactive.lic
+	com.hyxc.huiyaoxc_105 SenseID_Liveness_Interactive.lic
+	com.yqybwl.yanlesd_109 SenseID_Liveness_Interactive.lic
+	com.kyxx.jikeh_109 SenseID_Liveness_Interactive.lic
+	com.zjyr.xdd_115 SenseID_Liveness_Interactive.lic
+	com.gtkj.miaoquxh_113 SenseID_Liveness_Interactive.lic
+
+eb995814:
+	com.zte.grandband_183 license.lic
+	com.coolvi.kw50_74 license.lic
+
+6d73d211:
+	com.xiaomi.hm.health_8046 C8C90F0B-2120-4D1A-A538-F59BA39D8F52.lic
+	com.huami.watch.hmwatchmanager_32528 C8C90F0B-2120-4D1A-A538-F59BA39D8F52.lic
+
+67753094:
+	com.netease.epay_693 SenseID_OCR.lic
+	im.yixin_300 SenseID_OCR.lic
+	com.netease.yanxuan_1500 SenseID_OCR.lic
+
+0d5cf97b:
+	com.pp.jdloan_973 SENSEID_OCR_CF62900E-6F30-4C0E-BBA3-19B5BAEFB5A5.lic
+	com.pp.TimelyLoan_2138 SENSEID_OCR_CF62900E-6F30-4C0E-BBA3-19B5BAEFB5A5.lic
+
+d41d8cd9:
+	com.shineyie.aijianji_63 meishesdk.lic
+	howbuy.android.palmfund_181 wms_license.lic
+	com.duowan.bi_5031 SenseME.lic
+
+b242442f:
+	com.gto.app.geeler_93 SenseID_OCR.lic
+	com.dhh.easy.easyim_51 SenseID_OCR.lic
+
+18fdad1a:
+	com.phone580.cn.FBSMarket_235 liveness.lic
+	com.htffund.mobile.ec.ui_74 liveness.lic
+
+6f7dc2e6:
+	com.caixiaoxian_12 SenseID_OCR.lic
+	com.caixiaoxian_12 SenseID_Liveness.lic
+	com.zrb_92 SenseID_OCR.lic
+
+7f38f43c:
+	com.youhuo.live_435 SenseAR_Android.lic
+	com.baby.live_435 SenseAR_Android.lic
+	com.sixbo.live_435 SenseAR_Android.lic
+
+1ad6aa9a:
+	com.xiuba.xbvideo_14 SenseME.lic
+	cn.yanzijia.beautyassistant_501 SenseME.lic
+	cn.lnts.android.sghome_48 SenseME.lic
+
+3e1c79d8:
+	com.xiaomi.hm.health_8046 77A658D9-C6FD-4B8C-975E-6F08E4C34166.lic
+	com.huami.watch.hmwatchmanager_32528 77A658D9-C6FD-4B8C-975E-6F08E4C34166.lic
+
+9385b83f:
+	com.qlscupgrade_20190820 SenseID_Liveness.lic
+	com.gov.cn_21 SenseID_Liveness.lic
+
+1b678277:
+	com.enniu.xiaowuqianbao_3 SenseID_OCR.lic
+	com.enniu.renpindai_30 SenseID_OCR.lic
+	com.enniu.jiedao_16 SenseID_OCR.lic
+	com.zhangdan.app_8137 SenseID_OCR.lic
+	com.enniu.fund_100 SenseID_OCR.lic
+
+c185c936:
+	com.jiaoyang.shangshangqian_100 SenseID_OCR.lic
+	com.letianpai.lzyq_102 SenseID_OCR.lic
+
+fc6a4511:
+	com.tiange.hz.happy88_542 LinkfaceID.lic
+	com.lawu.live_221 LinkfaceID.lic
+	com.tiange.hz.paopao8_442 LinkfaceID.lic
+
+ee10cf0a:
+	com.zhiyuan.android.vertical_s_jinju_65055 SenseME.lic
+	com.waqu.android.general_aged_65060 SenseME.lic
+	com.tianming.android.vertical_5chaoju_65055 SenseME.lic
+
+caac1b36:
+	com.netease.cc_451849 SenseID_Liveness.lic
+	com.kaola_40150600 SenseID_Liveness.lic
+	com.netease.cbg_4045 SenseID_Liveness.lic
+	com.netease.gl_22112 SenseID_Liveness.lic
+
+5ba3a43d:
+	com.maimob.khw_160 SenseID_OCR.lic
+	cn.maimob.lydai_35 SenseID_OCR.lic
+
+a5586195:
+	com.hoge.android.app.yantaibaoye_20190518 liveness.lic
+	cn.lnts.android.sghome_48 liveness.lic
+
+8d9880d4:
+	com.hunan.weizhang_51 liveness.lic
+	com.gian.punkhoo_131 liveness.lic
+
+419fff71:
+	com.netease.epay_693 SenseID_Liveness_Interactive.lic
+	im.yixin_300 SenseID_Liveness_Interactive.lic
+	com.netease.yanxuan_1500 SenseID_Liveness_Interactive.lic
+
+d52a8a33:
+	com.bluelight.elevatorguard_401 liveness.lic
+	com.hoge.android.wuxiwireless_95 liveness.lic
+	com.tzhtc.goodPark_19 liveness.lic
+
+f05cc9be:
+	com.pp.jdloan_973 SenseID_Liveness_Interactive.lic
+	com.pp.TimelyLoan_2138 SenseID_Liveness_Interactive.lic
+
+fdabb184:
+	com.example.wangshang_182 license.lic
+	com.oceansoft.pap_90 license.lic
+	cn.kinglian.health.healthmanager_108 license.lic
+	cn.kinglian.dc_129 license.lic
+	cn.com.vdin.scSCDT.androidphone_1 license.lic
+	com.fadada_34 license.lic
+	com.wsjr.xiaomijiao_120 license.lic
+	com.wm.realname_45 license.lic
+	hnga.jmtapp_60 license.lic
+
+ac9adacb:
+	com.xiaomi.hm.health_8046 B73EA76D-9F9C-4C9B-AD62-009F950AB7B9.lic
+	com.huami.watch.hmwatchmanager_32528 B73EA76D-9F9C-4C9B-AD62-009F950AB7B9.lic
+
+44996fe5:
+	com.ddcinemaapp_1067 my.lic
+	com.osgh.movie_544 my.lic
+
+f6f34bdf:
+	com.zhiyuan.android.vertical_s_dongwushijie_66065 SenseME.lic
+	com.zhiyuan.android.vertical_s_wudaojiaoxue_66065 SenseME.lic
+	com.waqu.android.vertical_awkward_66065 SenseME.lic
+	com.waqu.android.vertical_youtube_66065 SenseME.lic
+	com.kaixin.android.vertical_3_jtrmjx_66065 SenseME.lic
+	com.time.android.vertical_new_youkelili_66065 SenseME.lic
+	com.kaixin.android.vertical_3_gbwjw_66065 SenseME.lic
+	com.waqu.android.vertical_makeup_66065 SenseME.lic
+	com.kaixin.android.vertical_3_CADzhitu_66065 SenseME.lic
+	com.waqu.android.guitar_66065 SenseME.lic
+	com.waqu.android.vertical_streetdance_66065 SenseME.lic
+	com.waqu.android.general_guangchangwu_66065 SenseME.lic
+	com.waqu.android.vertical_meiju_66065 SenseME.lic
+	com.tianming.android.vertical_5kouqin_66065 SenseME.lic
+
+2ff72acc:
+	com.waqu.android.vertical_yoga_66070 SenseME.lic
+	com.waqu.android.vertical_sxb_66070 SenseME.lic
+	com.waqu.android.vertical_food_66070 SenseME.lic
+	com.waqu.android.vertical_kemu2_66070 SenseME.lic
+	com.time.android.vertical_new_psjiaocheng_66070 SenseME.lic
+	com.time.android.vertical_new_dizirm_66070 SenseME.lic
+	com.kaixin.android.vertical_3_jswjx_66070 SenseME.lic
+	com.tianming.android.vertical_5sgzzfwly_66070 SenseME.lic
+	com.zhiyuan.android.vertical_s_psxiutu_66070 SenseME.lic
+	com.kaixin.android.vertical_3_zdyjfc_66070 SenseME.lic
+	com.kaixin.android.vertical_3_diaoyu_66070 SenseME.lic
+	com.tianming.android.vertical_5suona_66070 SenseME.lic
+	com.zhiyuan.android.vertical_dangao_66070 SenseME.lic
+	com.waqu.android.vertical_hairstyle_66070 SenseME.lic
+	com.zhiyuan.android.vertical_s_wubishuru_66070 SenseME.lic
+	com.zhiyuan.android.vertical_s_yingbishufa_66070 SenseME.lic
+	com.time.android.vertical_new_taiquandao_66070 SenseME.lic
+	com.kaixin.android.vertical_3_maobizi_66070 SenseME.lic
+	com.time.android.vertical_new_mofang_66070 SenseME.lic
+	com.zhiyuan.android.vertical_s_zhenzhixiezi_66070 SenseME.lic
+	com.zhiyuan.android.vertical_s_huameiniaojs_66070 SenseME.lic
+	com.time.android.vertical_new_shouliandebianfa_66070 SenseME.lic
+	com.zhiyuan.android.vertical_s_aoteman_66070 SenseME.lic
+	com.waqu.android.vertical_yunfuyoga_66070 SenseME.lic
+	com.tongxing.android.vertical_tong_kongshoudao_66070 SenseME.lic
+	com.kaixin.android.vertical_3_damajiang_66070 SenseME.lic
+
+68bfc3d4:
+	com.rrs.waterstationbuyer_78 liveness.lic
+	com.chinawidth.module.mashanghua_27 liveness.lic
+
+0f80daa2:
+	com.xncredit.xdy_240 LinkfaceID.lic
+	com.greate.myapplication_466 LinkfaceID.lic
+	com.xncredit.fqd_4550 LinkfaceID.lic
+	com.xncredit.sbkd_466 LinkfaceID.lic
+	com.xncredit.xybt_466 LinkfaceID.lic
+
+341ed19f:
+	com.tencent.nijigen_157 com_tencent_2118.lic
+	com.tencent.zebra_313 com_tencent_2118.lic
+	com.qzone_123 com_tencent_2118.lic
+	com.tencent.funcam_687 com_tencent_2118.lic
+	com.tencent.now_1961 com_tencent_2118.lic
+	com.tencent.weishi_595 com_tencent_2118.lic
+	com.tencent.ttpic_60202 com_tencent_2118.lic
+
+d9bf6b5e:
+	com.tiange.hz.happy88_542 SenseID_Liveness.lic
+	com.lawu.live_221 SenseID_Liveness.lic
+	com.tiange.hz.paopao8_442 SenseID_Liveness.lic
+
+377db9a4:
+	com.xiaomi.hm.health_8046 807EB4BC-2FD0-46FA-B607-ABA3F6CE7250.lic
+	com.huami.watch.hmwatchmanager_32528 807EB4BC-2FD0-46FA-B607-ABA3F6CE7250.lic
+
+174cdf81:
+	com.enniu.xiaowuqianbao_3 SenseID_Liveness.lic
+	com.enniu.renpindai_30 SenseID_Liveness.lic
+	com.enniu.jiedao_16 SenseID_Liveness.lic
+	com.zhangdan.app_8137 SenseID_Liveness.lic
+	com.enniu.fund_100 SenseID_Liveness.lic
+
+77dc3c2b:
+	com.xiaomi.hm.health_8046 33F513E5-5CA2-4C23-A6D4-8466202EE698.lic
+	com.huami.watch.hmwatchmanager_32528 33F513E5-5CA2-4C23-A6D4-8466202EE698.lic
+
+4abf0a68:
+	com.xiaomi.hm.health_8046 12BB667E-32CC-4511-BB3E-07BE054A2896.lic
+	com.huami.watch.hmwatchmanager_32528 12BB667E-32CC-4511-BB3E-07BE054A2896.lic
+
+c4d9bb9d:
+	com.buick_101 8F702103353728F80AA4.lic
+	com.shanghaionstar_57 8F702103353728F80AA4.lic
+	com.shanghaigm.mychevy_25 8F702103353728F80AA4.lic
+
+
+Identified 52 suspected license reuse cases among different apps

@@ -1,0 +1,124 @@
+statistics for /home/ethan/work/modelxray/tencent_output_dir/reports
+fws: tensorflow caffe sensetime ncnn other mxnet uls mace
+
+OCR
+tensorflow :  1
+caffe :  2
+sensetime :  1
+ncnn :  2
+other :  13
+mxnet :  0
+uls :  6
+mace :  6
+tflite : 0
+
+ocr
+tensorflow :  5
+caffe :  17
+sensetime :  12
+ncnn :  3
+other :  30
+mxnet :  0
+uls :  9
+mace :  9
+tflite : 1
+
+speech
+tensorflow :  2
+caffe :  1
+sensetime :  0
+ncnn :  1
+other :  14
+mxnet :  0
+uls :  9
+mace :  9
+tflite : 0
+
+idcard
+tensorflow :  3
+caffe :  14
+sensetime :  11
+ncnn :  9
+other :  30
+mxnet :  0
+uls :  9
+mace :  9
+tflite : 0
+
+bankcard
+tensorflow :  2
+caffe :  11
+sensetime :  8
+ncnn :  3
+other :  15
+mxnet :  0
+uls :  9
+mace :  9
+tflite : 0
+
+recog
+tensorflow :  3
+caffe :  7
+sensetime :  6
+ncnn :  6
+other :  12
+mxnet :  0
+uls :  3
+mace :  3
+tflite : 2
+
+liveness
+tensorflow :  8
+caffe :  33
+sensetime :  31
+ncnn :  7
+other :  37
+mxnet :  0
+uls :  3
+mace :  3
+tflite : 3
+
+track
+tensorflow :  5
+caffe :  15
+sensetime :  12
+ncnn :  3
+other :  17
+mxnet :  0
+uls :  3
+mace :  3
+tflite : 2
+
+handdetect
+tensorflow :  2
+caffe :  2
+sensetime :  0
+ncnn :  2
+other :  2
+mxnet :  0
+uls : 0
+mace : 0
+tflite : 0
+
+handwriting
+tensorflow :  1
+caffe :  0
+sensetime :  0
+ncnn :  2
+other :  3
+mxnet :  0
+uls : 0
+mace : 0
+tflite : 0
+
+iris
+tensorflow :  0
+caffe :  0
+sensetime :  0
+ncnn :  0
+other :  0
+mxnet :  0
+uls : 0
+mace : 0
+tflite : 0
+

@@ -1,0 +1,11 @@
+                mace other caffe ncnn uls tflite tensorflow sensetime mxnet sum 
+          recog 7	149	116	40	3	6	17	95	10	443	
+       liveness 7	409	392	70	3	9	32	349	10	1281	
+           iris 0	7	4	2	0	0	0	0	3	16	
+     handdetect 0	18	17	16	0	0	8	1	0	60	
+         idcard 18	405	230	47	10	5	26	147	0	888	
+       bankcard 18	156	126	16	9	2	11	117	0	455	
+          track 6	306	272	53	27	7	26	216	13	926	
+         speech 18	230	32	11	9	1	7	9	1	318	
+    handwriting 0	10	0	4	0	2	4	0	0	20	
+            ocr 18	381	186	37	11	6	41	140	1	821	

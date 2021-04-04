@@ -1,0 +1,13 @@
+Analyzing /home/ruimin/nfs/modelxray/www_decomposed_dir
+2020-07-30-03-49-10
+
+MD5		License Path and Name
+8931b9b5 /home/ruimin/nfs/modelxray/www_decomposed_dir/com.asiainno.uplive/assets/SenseME.lic
+01a79798 /home/ruimin/nfs/modelxray/www_decomposed_dir/com.commsource.beautyplus/assets/libHADetector.bundle/SenseME.lic
+01a79798 /home/ruimin/nfs/modelxray/www_decomposed_dir/com.meitu.meiyancamera/assets/libHADetector.bundle/SenseME.lic
+86419bfb /home/ruimin/nfs/modelxray/www_decomposed_dir/com.campmobile.snow/assets/SenseME.lic
+0a5c6e5c /home/ruimin/nfs/modelxray/www_decomposed_dir/com.campmobile.snow/assets/SenseME-test.lic
+66d87bb2 /home/ruimin/nfs/modelxray/www_decomposed_dir/com.asiainno.uplive.yuanfen/assets/SenseME.lic
+37d8f0ce /home/ruimin/nfs/modelxray/www_decomposed_dir/com.nhn.android.webtoon/assets/SenseME.lic
+3e1486f9 /home/ruimin/nfs/modelxray/www_decomposed_dir/com.xingin.xhs/assets/SenseME.lic
+08119262 /home/ruimin/nfs/modelxray/www_decomposed_dir/com.mico/assets/SenseME.lic
