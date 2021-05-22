@@ -76,11 +76,14 @@ For other communications, you can email sun.zhi [at] northeastern.edu.
 
 ## Citing our [paper](https://arxiv.org/pdf/1802.03462.pdf)
 ```bibtex
-@article{sun2020mind,
-  title={Mind your weight (s): A large-scale study on insufficient machine learning model protection in mobile apps},
-  author={Sun, Zhichuang and Sun, Ruimin and Lu, Long},
-  journal={arXiv preprint arXiv:2002.07687},
-  year={2020}
+@inproceedings {272264,
+author = {Zhichuang Sun and Ruimin Sun and Long Lu and Alan Mislove},
+title = {Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps},
+booktitle = {30th {USENIX} Security Symposium ({USENIX} Security 21)},
+year = {2021},
+url = {https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang},
+publisher = {{USENIX} Association},
+month = aug,
 }
 ```
 
