@@ -107,4 +107,4 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-[1]: https://arxiv.org/abs/2002.07687 "Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps"
+[1]: https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang "Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps"
