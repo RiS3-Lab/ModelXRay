@@ -108,3 +108,16 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 [1]: https://www.usenix.org/conference/usenixsecurity21/presentation/sun-zhichuang "Mind Your Weight(s): A Large-scale Study on Insufficient Machine Learning Model Protection in Mobile Apps"
+
+## Q&A
+
+### How to detect encrypted model file?
+
+We use file [entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Data_compression) as indicator for encryption. File entropy in the context of computing measures the degree of randomness of the data. High entropy file fall into three categories:
+  * P1: Pure Random Data
+  * P2: Compressed files
+  * P3: Encrypted files
+
+For suspected model files with high entropy, we rule out P1, assuming it is a model file. Compressed files usually can be detected with file format checking. 
+For example, we can use file extention(.zip, .gzip, etc.) to rule out P2. For the rest, we now have some confidence that the high entropy file is encrypted.
+See the paper for how we decide on the boundary of encryption for file entropy value. By the way, file entropy can easily calculated with Linux cmdline tool `ent` ([see here](https://wiki.alpinelinux.org/wiki/Entropy_and_randomness0)).
