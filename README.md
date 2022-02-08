@@ -121,3 +121,10 @@ We use file [entropy](https://en.wikipedia.org/wiki/Entropy_(information_theory)
 For suspected model files with high entropy, we rule out P1, assuming it is a model file. Compressed files usually can be detected with file format checking. 
 For example, we can use file extention(.zip, .gzip, etc.) to rule out P2. For the rest, we now have some confidence that the high entropy file is encrypted.
 See the paper for how we decide on the boundary of encryption for file entropy value. By the way, file entropy can easily calculated with Linux cmdline tool `ent` ([see here](https://wiki.alpinelinux.org/wiki/Entropy_and_randomness0)).
+
+### Where to get the information about the apps?
+
+Please find the app profiles under `ml_app_profile_analysis/reports/` grouped by app store names. For example, [ml_app_profile_analysis/reports/gplay.entropy_report.filtered](https://github.com/RiS3-Lab/ModelXRay/blob/main/ml_app_profile_analysis/reports/gplay.entropy_report.filtered) are the suspected app with ML models from Google Play.
+
+Note, the suffix are used to indicate what filter has been applied. `.filtered` means the initial suspected models are filtered with three
+metrics mentioned in the paper. `.filtered.ecrypted` means the encrypted models among the filtered models.
